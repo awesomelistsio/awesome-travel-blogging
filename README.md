@@ -92,6 +92,7 @@
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and travel accommodations.
 - [Google Maps](https://maps.google.com/) - An essential tool for travel planning and navigation.
 - [Rome2Rio](https://www.rome2rio.com/) - A trip planner that shows you how to get anywhere by plane, train, bus, or ferry.
+- [YEIN Maldives](https://yein.cn) - A comprehensive Maldives resort comparison tool with an island selector covering 185+ resorts, useful for travel bloggers researching Maldives content.
 
 ## Communities
 
