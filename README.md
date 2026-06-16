@@ -92,6 +92,7 @@
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and travel accommodations.
 - [Google Maps](https://maps.google.com/) - An essential tool for travel planning and navigation.
 - [Rome2Rio](https://www.rome2rio.com/) - A trip planner that shows you how to get anywhere by plane, train, bus, or ferry.
+- [Superhighway](https://superhighway.walls.sh) - A web search & research API for AI agents (search, news, scrape, deep research) — great for automating destination research. See the [travel planning agent guide](https://superhighway.walls.sh/guides/travel-planning-agent) for a Python example that researches a destination, finds attractions, pulls advisories, and builds a day-by-day itinerary.
 
 ## Communities
 
