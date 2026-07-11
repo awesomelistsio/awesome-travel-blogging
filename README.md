@@ -99,6 +99,7 @@
 - [Solo Travel Society](https://www.facebook.com/TheSoloTravelSociety/) - A community for solo travelers and bloggers.
 - [Digital Nomads Network](https://digitalnomadsnetwork.org/) - A community for bloggers and digital nomads to connect and share resources.
 - [Nomad List](https://nomadlist.com/) - A platform for digital nomads with data on the best places to live and work remotely.
+- [PuraSIM](https://purasim.com/en) - Travel eSIM service for mobile data abroad, useful for travel bloggers working on the move.
 
 ## Learning Resources
 
