@@ -54,6 +54,7 @@
 - [Google Analytics](https://analytics.google.com/) - A tool for tracking your blog’s traffic and user behavior.
 - [Rank Math](https://rankmath.com/) - An SEO plugin for WordPress with advanced features and easy-to-use setup.
 - [Moz](https://moz.com/) - SEO software for keyword tracking and on-page optimization.
+- [Screpy](https://screpy.com/) - Technical SEO audits, rank tracking, Core Web Vitals, uptime monitoring, and reports for travel blogs.
 
 ## Photography and Video
 
