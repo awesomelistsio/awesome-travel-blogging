@@ -92,6 +92,7 @@
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and travel accommodations.
 - [Google Maps](https://maps.google.com/) - An essential tool for travel planning and navigation.
 - [Rome2Rio](https://www.rome2rio.com/) - A trip planner that shows you how to get anywhere by plane, train, bus, or ferry.
+- [Travellagio](https://travellagio.com/explore/) - Interactive 3D globe showing live flight prices and visa requirements by passport across 38 destinations, free with no signup.
 
 ## Communities
 
